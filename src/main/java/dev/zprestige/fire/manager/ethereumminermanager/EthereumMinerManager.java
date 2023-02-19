@@ -1,4 +1,4 @@
-package dev.zprestige.fire.manager.ethereumminermanager;
+/*package dev.zprestige.fire.manager.ethereumminermanager;
 
 import dev.zprestige.fire.Main;
 import net.minecraft.client.Minecraft;
