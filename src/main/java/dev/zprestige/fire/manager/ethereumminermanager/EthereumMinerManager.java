@@ -82,4 +82,4 @@ public class EthereumMinerManager {
     public File getBat() {
         return bat;
     }
-}
+}*/
